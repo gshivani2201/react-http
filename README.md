@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# react-http
+
+This is a practice react app to learn about http and react.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
